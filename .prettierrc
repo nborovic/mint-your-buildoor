@@ -1,0 +1,27 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "trailingComma": "es5",
+  "plugins": ["@trivago/prettier-plugin-sort-imports"],
+  "importOrder": [
+    "^react(.*)",
+    "<THIRD_PARTY_MODULES>",
+    "^features",
+    "^components",
+    "^hooks",
+    "^providers",
+    "^api",
+    "^utils",
+    "^constants",
+    "^models",
+    "^types",
+    "^styles",
+    "^assets",
+    "^fonts",
+    "^[../]",
+    "^[./]"
+  ],
+  "importOrderSeparation": true
+}
