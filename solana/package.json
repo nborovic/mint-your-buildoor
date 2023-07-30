@@ -1,0 +1,22 @@
+{
+  "name": "solana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "create-bld-token": "ts-node ./tokens/bld/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.19.4",
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}

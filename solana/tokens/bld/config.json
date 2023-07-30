@@ -1,0 +1,7 @@
+{
+  "TOKEN_NAME": "BUILD",
+  "TOKEN_SYMBOL": "BLD",
+  "TOKEN_DESCRIPTION": "A token for buildoors",
+  "TOKEN_IMAGE_NAME": "hammer.png",
+  "TOKEN_IMAGE_PATH": "tokens/bld/assets/hammer.png"
+}
