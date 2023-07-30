@@ -5,7 +5,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "create-bld-token": "ts-node ./tokens/bld/index.ts"
+    "create-bld-token": "ts-node ./tokens/bld/index.ts",
+		"initialize-nft-metadatas": "ts-node ./tokens/candy-machine/index.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",

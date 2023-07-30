@@ -1,0 +1,8 @@
+{
+  "name": "Buildoors",
+  "symbol": "BUILDOOR",
+  "description": "Buildoor",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": { "files": [{ "uri": "0.png", "type": "image/png" }] }
+}
